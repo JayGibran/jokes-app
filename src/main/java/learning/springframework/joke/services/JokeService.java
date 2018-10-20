@@ -1,4 +1,4 @@
-package learning.springframework.joke.jokeapp.services;
+package learning.springframework.joke.services;
 
 public interface JokeService {
 

@@ -1,4 +1,4 @@
-package learning.springframework.joke.jokeapp;
+package learning.springframework.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

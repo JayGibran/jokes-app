@@ -1,6 +1,6 @@
-package learning.springframework.joke.jokeapp.controllers;
+package learning.springframework.joke.controllers;
 
-import learning.springframework.joke.jokeapp.services.JokeService;
+import learning.springframework.joke.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

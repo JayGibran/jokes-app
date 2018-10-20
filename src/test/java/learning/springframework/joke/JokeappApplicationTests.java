@@ -1,4 +1,4 @@
-package learning.springframework.joke.jokeapp;
+package learning.springframework.joke;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
